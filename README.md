@@ -1,2 +1,5 @@
-# site-portfolio
-Esse é um projeto de protiforlio com HTML CSS e Javascript
+# Bem vindo ao curso Git e Github.
+Nesse curso você vai dominar todo git e github do zero ao profissional.
+
+## Módulos:
+entendedo oque é Git e Githube trabalando com branches.
