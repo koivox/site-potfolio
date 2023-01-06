@@ -3,7 +3,13 @@
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._
 
 ## Módulos:
-_Entendedo oque é Git e Githube trabalando com **branches**._
+* Começando com Git.
+
+* Aprendedno sobre branches.
+
+* Git avançado.
+
+* Usando github de forma profissional.
  ## Rede social:
  [Instagram](https://www.facebook.com/)
 
