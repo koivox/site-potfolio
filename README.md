@@ -46,4 +46,10 @@ npm start
 
 **Exemplo de uso do script:**
 ````js
-function showname *(koi){
+function showname *(ko
+}
+````
+Propiedade | Descrição
+-----------|---------
+name | Informar o nome do usuario
+| Para definir o formato do fundo | Cor do fundo | Função chamado  clicar no botão
