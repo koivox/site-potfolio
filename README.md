@@ -51,5 +51,5 @@ function showname *(ko
 ````
 Propiedade | Descrição
 -----------|---------
-name | Informar o nome do usuario
+name | Informar o **nome** do usuario
 | Para definir o formato do fundo | Cor do fundo | Função chamado  clicar no botão
