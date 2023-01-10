@@ -2,6 +2,12 @@
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._
 
+**Ultimas updates:**
+
+- [x] Site responsivo.
+- [ ] Login do facebook
+- [ ] Pagina sobre a empresa.
+
 ## Módulos:
 * Começando com Git.
 
@@ -31,3 +37,13 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
  >
  > Segunda area destacada
 
+
+**Comando para rodar o projeto:**
+
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+````js
+function showname *(koi){
